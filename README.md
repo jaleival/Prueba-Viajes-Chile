@@ -5,3 +5,4 @@
 ### 3.- Configuración del FORMULARIO
 ### 4.- Configuración del FOOTER
 ### 5.- Inserción de Código en carpeta js y modificación algunos estilos en CSS
+### 6.- Se agregó el archivo .gitignore para restringir carperta DS_Store
