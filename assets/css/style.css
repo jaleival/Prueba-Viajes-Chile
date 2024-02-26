@@ -73,6 +73,7 @@ aside {
 
 .icon{
     text-align: right;
+    color: #ffffff;
 }
 
 div.piepag aside, .icon{
@@ -81,4 +82,9 @@ div.piepag aside, .icon{
     vertical-align: middle;
     padding: 1%;
     font-size: x-large;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
