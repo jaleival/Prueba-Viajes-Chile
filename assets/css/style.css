@@ -20,7 +20,7 @@ body {
     padding-left: 5%;
 }
 
-/*barra superior*/
+/*Barra superior*/
 .navbar-light .navbar-nav .nav-link, 
 .navbar-light .navbar-nav 
 .show>.nav-link{
@@ -43,11 +43,19 @@ p {
 .row {
     color: #ffffff;
 }
-/*subtitulos*/
+/*Subtitulos*/
 h5 {
     text-align: center;
     font-weight: 300;
     color: #ffffff;
     padding-top: 4%;
     padding-bottom: 4%;
+}
+
+/*Formulario de bootstrap*/
+.form {
+    align-content: center;
+    color: #ffffff;
+    padding-left: 7.5%;
+    padding-right: 7.5%;
 }
