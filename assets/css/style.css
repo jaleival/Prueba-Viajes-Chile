@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #000000;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid {
+    color: #ffffff;
+    padding: 1%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+/*barra superior*/
+.navbar-light .navbar-nav .nav-link, 
+.navbar-light .navbar-nav 
+.show>.nav-link{
+    color: white;
+}
