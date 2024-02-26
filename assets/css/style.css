@@ -26,3 +26,28 @@ body {
 .show>.nav-link{
     color: white;
 }
+
+.fa-solid {
+    text-align: center;
+    color: white;
+    padding-left: 45%;
+    padding-right: 45%;
+    font-size: xx-large;
+    font-weight: 300;
+}
+
+p {
+    text-align: left;
+}
+
+.row {
+    color: #ffffff;
+}
+/*subtitulos*/
+h5 {
+    text-align: center;
+    font-weight: 300;
+    color: #ffffff;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
